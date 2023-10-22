@@ -1,1 +1,1 @@
-# Recreation-of-Wikihow-Website
+# Recreation-of-WikiHow-Website
